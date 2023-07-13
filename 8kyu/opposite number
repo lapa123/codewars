@@ -1,0 +1,5 @@
+#!/bin/bash
+# your code here
+a=$1
+ 
+echo 0- $1|bc
